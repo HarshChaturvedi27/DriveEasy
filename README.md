@@ -1,4 +1,4 @@
-# DriveOn – Car Rental Platform
+# DriveEasy – Car Rental Platform
 
 ![Frontend](https://img.shields.io/badge/Frontend-React-blue)
 ![Backend](https://img.shields.io/badge/Backend-Node.js-green)
@@ -7,7 +7,7 @@
 
 **Live Demo:** [https://drive-on-mocha.vercel.app](https://drive-on-mocha.vercel.app)
 
-DriveOn is a modern car rental platform where car owners can list their vehicles for daily rental and customers can easily find and rent cars based on their preferences.
+DriveEasy is a modern car rental platform where car owners can list their vehicles for daily rental and customers can easily find and rent cars based on their preferences.
 
 ---
 
@@ -46,7 +46,7 @@ DriveOn is a modern car rental platform where car owners can list their vehicles
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/driveon.git
+   git clone https://github.com/HarshChaturvedi27/DriveEasy.git
    cd driveon
 
 2. Install frontend dependencies:
